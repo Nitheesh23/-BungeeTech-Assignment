@@ -1,6 +1,7 @@
-**Project Name**
-I have developed a movie app primarily using React.js and the TMDB API.
+**Project Name:** I have developed a movie app primarily using React.js and the TMDB API.
+
 ----------------------------------------------------------------------------------------------------------------------------------
+
 **Table of Contents**
 Features
 Setup and Run Instructions
@@ -9,11 +10,13 @@ Assumptions and Decisions
 Screenshots
 API Reference
 Technologies Used
+
 -----------------------------------------------------------------------------------------------------------------------------------
 **Features**
     **Feature 1:** I have implemented filter options for both year and genre in my movie app.
     **Feature 2:** I have added a search option to my movie app.
-    **Feature 3:** I have incorporated a watchlist feature in my movie app..
+    **Feature 3:** I have incorporated a watchlist feature in my movie app.
+    
 -----------------------------------------------------------------------------------------------------------------------------------
 **Setup and Run Instructions**
 **Clone the repository:**
@@ -29,13 +32,17 @@ const API_KEY = "your-api-key-here";
 my api key : 1749ee86927c862e6ac40360e3eb8c0d
 `https://api.themoviedb.org/3/movie/upcoming?api_key=1749ee86927c862e6ac40360e3eb8c0d&language=en-US&page=1`
 **Run the application:**
+
 Open the index.html file in a browser to view the application.
+
 ------------------------------------------------------------------------------------------------------------------------------------
 **Usage**
 **Feature 1:** I have implemented filter options based on year and genre, enabling users to easily identify movies according to these criteria.
 **Feature 2:** I have implemented a user-friendly and easily accessible search option in my movie app. This feature allows users to effortlessly search for movies.
 **Feature 3:** I have implemented a watchlist option in my movie app that lets users add movies to their watchlist. They can later view their favorite movies from this list. 
+
 -----------------------------------------------------------------------------------------------------------------------------------------------
+
 **Interaction**
 In the movie app, users can easily navigate through various sections, enhancing their overall experience. Here’s how the interaction unfolds:
 1. **Home Tab**: 
