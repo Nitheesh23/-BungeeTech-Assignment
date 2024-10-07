@@ -1,5 +1,6 @@
 **Project Name**
 I have developed a movie app primarily using React.js and the TMDB API.
+----------------------------------------------------------------------------------------------------------------------------------
 **Table of Contents**
 Features
 Setup and Run Instructions
@@ -8,11 +9,12 @@ Assumptions and Decisions
 Screenshots
 API Reference
 Technologies Used
-
+-----------------------------------------------------------------------------------------------------------------------------------
 **Features**
     **Feature 1:** I have implemented filter options for both year and genre in my movie app.
     **Feature 2:** I have added a search option to my movie app.
     **Feature 3:** I have incorporated a watchlist feature in my movie app..
+-----------------------------------------------------------------------------------------------------------------------------------
 **Setup and Run Instructions**
 **Clone the repository:**
 git clone https: https://github.com/Nitheesh23/-BungeeTech-Assignment.git
@@ -28,11 +30,12 @@ my api key : 1749ee86927c862e6ac40360e3eb8c0d
 `https://api.themoviedb.org/3/movie/upcoming?api_key=1749ee86927c862e6ac40360e3eb8c0d&language=en-US&page=1`
 **Run the application:**
 Open the index.html file in a browser to view the application.
-
+------------------------------------------------------------------------------------------------------------------------------------
 **Usage**
 **Feature 1:** I have implemented filter options based on year and genre, enabling users to easily identify movies according to these criteria.
 **Feature 2:** I have implemented a user-friendly and easily accessible search option in my movie app. This feature allows users to effortlessly search for movies.
 **Feature 3:** I have implemented a watchlist option in my movie app that lets users add movies to their watchlist. They can later view their favorite movies from this list. 
+-----------------------------------------------------------------------------------------------------------------------------------------------
 **Interaction**
 In the movie app, users can easily navigate through various sections, enhancing their overall experience. Here’s how the interaction unfolds:
 1. **Home Tab**: 
@@ -50,7 +53,7 @@ In the movie app, users can easily navigate through various sections, enhancing 
 7. **User-Friendly Navigation**: 
    - The app's design ensures seamless navigation between tabs. Users can switch between the Home tab and Watchlist tab effortlessly, providing a smooth experience.
 Overall, the interaction design prioritizes user convenience, allowing them to discover, filter, and save their favorite movies with ease.
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **API Reference**
 
 **API provider :** TMDB API 
@@ -61,7 +64,7 @@ Overall, the interaction design prioritizes user convenience, allowing them to d
      --header 'Authorization: Bearer          
 eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI5OGFlNTZmZWE1NjU3ZjU0YTU3YjU4MWNlZDA2NDNlMCIsIm5iZiI6MTcyODI3ODQ3Ny4yMzYxMTcsInN1YiI6IjY2ZWZhMjFjNWVlNjFmYmI3MzhkNjE4YSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.Hv__oo8LZZv3EZvOlbcx2tX8Hl3McCuHqTERkIW5q30' \
      --header 'accept: application/json'
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Technologies Used:**
 **Frontend:** List frontend technologies React js.
 **APIs:** TMDB API (https://www.themoviedb.org/)
